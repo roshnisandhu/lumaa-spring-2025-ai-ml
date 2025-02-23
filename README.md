@@ -29,13 +29,14 @@ I chose to create a travel recommendation system because travel has been a huge 
 - example 2) python3 main.py i like to immerse in a country's art, history, and culture
 
 ## Expected Results
-**example 1**
- **Top Travel Recommendations for You:**
-Haiti: Haiti has a vibrant Creole culture and adventure in its rugged mountain trails.
-Czech Republic: The Czech Republic boasts fairy-tale castles, Gothic cathedrals, and forested hiking trails.
-Belgium: Belgium is famous for its medieval cities, castles, and adventure activities like hiking in the Ardennes.
-Guatemala: Guatemala features Mayan ruins and volcano hiking adventures.
-Lebanon: Lebanon is home to Phoenician history and beautiful mountain landscapes for hiking.
+**example 1** 
+
+**Top Travel Recommendations for You:**
+1) Haiti: Haiti has a vibrant Creole culture and adventure in its rugged mountain trails.
+2) Czech Republic: The Czech Republic boasts fairy-tale castles, Gothic cathedrals, and forested hiking trails.
+3) Belgium: Belgium is famous for its medieval cities, castles, and adventure activities like hiking in the Ardennes.
+4) Guatemala: Guatemala features Mayan ruins and volcano hiking adventures.
+5) Lebanon: Lebanon is home to Phoenician history and beautiful mountain landscapes for hiking.
 
 ### Salary Expectations
 $23-25/hour 
