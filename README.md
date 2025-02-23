@@ -24,9 +24,9 @@ I chose to create a travel recommendation system because travel has been a huge 
 **python -m spacy download en_core_web_sm**
 
 ## Run the Recommender
-python3 main.py "what do you look for in a travel destination?"
-example 1) python3 main.py i want to visit a country with mountains and hiking trails
-example 2) python3 main.py i like to immerse in a country's art, history, and culture
+**python3 main.py "what do you look for in a travel destination?"**
+- example 1) python3 main.py i want to visit a country with mountains and hiking trails
+- example 2) python3 main.py i like to immerse in a country's art, history, and culture
 
 ### Salary Expectations
 $23-25/hour 
